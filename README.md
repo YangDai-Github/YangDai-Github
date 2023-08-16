@@ -3,18 +3,18 @@
 ## Welcome to my Github.
 
 <p align="center">
-  <a href="https://github.com/YangDai-Github" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=YangDai-Github" alt="Yang Dai's Stats" >
+  <a href="https://github.com/YangDai2003" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=YangDai2003" alt="Yang Dai's Stats" >
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/YangDai-Github" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangDai-Github" />
+  <a href="https://github.com/YangDai2003" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangDai2003" />
   </a>
 </p>
 
 <p align="center">
-  <a href= "https://github.com/YangDai-Github/YangDai-Github/blob/master/mmqrcode1689433083445.png" target="_blank" alt="WeChat" title="WeChat">
+  <a href= "https://github.com/YangDai2003/YangDai2003/blob/master/mmqrcode1689433083445.png" target="_blank" alt="WeChat" title="WeChat">
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
   </a>
   &emsp;

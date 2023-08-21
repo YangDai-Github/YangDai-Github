@@ -3,16 +3,8 @@
 ## Welcome to my Github.
 ## Visit my [Homepage](https://yangdai2003.github.io/) to learn more about me.
 
-<p align="center">
-  <a href="https://github.com/YangDai2003" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=YangDai2003" alt="Yang Dai's Stats" >
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/YangDai2003" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangDai2003" />
-  </a>
-</p>
+| <a href="https://github.com/YangDai2003"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YangDai2003&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yang's github stats" /></a> | <a href="https://github.com/YangDai2003"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangDai2003&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <p align="center">
   <a href= "https://github.com/YangDai2003/YangDai2003/blob/master/mmqrcode1689433083445.png" target="_blank" alt="WeChat" title="WeChat">

@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/YangDai2003" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=YangDai2003" alt="Yang Dai's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YangDai2003" alt="Yang Dai's Stats" >
   </a>
 </p>
 <p align="center">

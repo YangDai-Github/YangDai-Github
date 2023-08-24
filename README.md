@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href= "https://github.com/YangDai2003/YangDai2003/blob/master/mmqrcode1689433083445.png" target="_blank" alt="WeChat" title="WeChat">
-    <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
+    <img src="icons8-wechat-50.png" width="28px"/>
   </a>
   &emsp;
   <a href="https://space.bilibili.com/98958158" target="_blank" alt="Bilibili" title="Bilibili">
@@ -16,15 +16,15 @@
   </a>
   &emsp;
   <a href= "https://instagram.com/ryan_yang_dai?igshid=ZDc4ODBmNjlmNQ==" target="_blank" alt="Instagram" title="Instagram">
-    <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
+    <img src="icons8-instagram-50.png" width="26px"/>
   </a>
   &emsp;
   <a href="https://youtube.com/@Yang-Youtube" target="_blank" alt="YouTube" title="YouTube">
-    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
+    <img src="icons8-youtube-50.png" width="28px"/>
   </a>
   &emsp;
   <a href="https://www.linkedin.com/in/阳-戴-ba4435283" target="_blank" alt="LinkedIn" title="LinkedIn">
-    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
+    <img src="icons8-linkedin-50.png" width="28px"/>
   </a>
   &emsp;
   <br><br>

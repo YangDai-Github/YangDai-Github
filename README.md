@@ -1,10 +1,6 @@
 ![](Bottom_up.svg)
 
-## Hi there 👋
-
-## I'm Yang Dai from Shanghai and currently an undergraduate student at the Technical University of Munich. 
-
-## Visit my [Homepage](https://yangdai2003.github.io/) to learn more about me.
+## Hi there 👋,  view my [Homepage](https://yangdai2003.github.io/) to learn more about me.
 
 | <a href="https://github.com/YangDai2003"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YangDai2003&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yang's github stats" /></a> | <a href="https://github.com/YangDai2003"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangDai2003&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
